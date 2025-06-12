@@ -250,7 +250,7 @@ streamlit run app.py
 
 Dan untuk menghentikan program aplikasi Streamlit dapat melalui `ctrl + c`.
 
-Sistem prediksi tersebut juga dapat diakses secara langsung yang sudah di-deploy ke Streamlit Cloud melalui tautan.
+Sistem prediksi tersebut juga dapat diakses secara langsung yang sudah di-deploy ke Streamlit Cloud melalui tautan berikut ini ( https://aplikasideteksidropout-idhr5cx9lr2ytetp8hmfeo.streamlit.app/ ). Anda diharapkan untuk mendwonload file uji coba gunaa melihat format kolom dan data.
 
 ----------------------------------
 
