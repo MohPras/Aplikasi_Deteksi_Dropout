@@ -1,4 +1,4 @@
-# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech Jaya Jaya Institut
+# Proyek Data Sicience Menyelesaikan Permasalahan Perusahaan Edutech Jaya Jaya Institut
 
 ----------------------------------
 
